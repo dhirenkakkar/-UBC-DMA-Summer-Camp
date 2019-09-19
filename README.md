@@ -1,2 +1,2 @@
 # UBC-DMA-Summer-Camp
-Collection of accompanying projects curated for AI &amp; Machine learning course
+Collection of accompanying projects curated for Python, AI &amp; Machine learning course
